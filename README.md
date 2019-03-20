@@ -5,7 +5,7 @@ Requires leds.py in aiy.vision.leds to have the Color class, enter/exit function
 
 When the button is green, press the button to begin taking photos. The button will blink white and the privacy LED will turn on while photos are being gathered.<br />
 To pause photo collection, press and hold the button until it flashes red, then release. The button should go back to green.<br />
-To end the script, hold down the button until it turns off.<br />
+To end the script, hold down the button until the LED turns off.<br />
 
 In camera.py:<br />
 Modify line 12 to change the resolution (default 512x512).<br />
