@@ -9,4 +9,5 @@ To end the script, hold down the button until it turns off.<br />
 
 In camera.py:<br />
 Modify line 12 to change the resolution (default 512x512).<br />
-Modify line 25 to change the directory where the photos will be saved.
+Modify line 25 to change the directory where the photos will be saved.<br />
+Modify line 36 to change the time delay between picture captures.
